@@ -1,0 +1,18 @@
+mapStructure
+
+{
+    mapId:"id-unico",
+    mapName:"Short Name for Map",
+    description:"description for map",
+    svg:"link for svg",
+    squaresNumber:10,
+    squaresConfig:[
+        {
+            type:"start" || "end" || "middle",
+            isUniqueTeam:false || true,
+            isFreeCategory: false || true
+            markerSvgPosition:[[x,y],[x,y],[x,y],[x,y],]        
+        },
+        ...
+    ]
+}
