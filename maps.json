@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Principal",
+        "id": "1",
+        "thumbImage": ""
+    },
+    {
+        "name": "Rápido",
+        "id": "2",
+        "thumbImage": ""
+    },
+    {
+        "name": "Difícil",
+        "id": "3",
+        "thumbImage": ""
+    }
+]
