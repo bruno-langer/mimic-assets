@@ -1,17 +1,18 @@
 [
     {
-        "name": "Principal",
+        "name": "Clássico",
         "id": "1",
-        "thumbImage": "https://raw.githubusercontent.com/bruno-langer/mimic-assets/main/image/main.png"
+        "thumbImage": "https://raw.githubusercontent.com/bruno-langer/mimic-assets/main/image/classic.png"
     },
     {
         "name": "Rápido",
         "id": "2",
-        "thumbImage": ""
+        "thumbImage": "https://raw.githubusercontent.com/bruno-langer/mimic-assets/main/image/fast.png"
     },
     {
         "name": "Difícil",
         "id": "3",
-        "thumbImage": ""
+        "thumbImage": "https://raw.githubusercontent.com/bruno-langer/mimic-assets/main/image/hard.png"
+        
     }
 ]
