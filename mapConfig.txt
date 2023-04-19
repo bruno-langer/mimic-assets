@@ -1,7 +1,5 @@
-mapStructure
-
 {
-    mapId:"id-unico",
+    mapId:"",
     mapName:"Short Name for Map",
     description:"description for map",
     svg:"link for svg",

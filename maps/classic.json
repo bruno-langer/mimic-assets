@@ -1,0 +1,135 @@
+{
+    "mapId":"classic",
+    "mapName":"Clássico",
+    "description":"Mapa mais clássico para esse tipo de jogo",
+    "svg":"https://raw.githubusercontent.com/bruno-langer/mimic-assets/main/maps/classic.svg",
+    "squaresNumber":21,
+    "squaresConfig":[
+        {
+            "type":"start",
+            "isUniqueTeam":false,
+            "isFreeCategory": false,
+            "markerSvgPosition":[[0,0],[0,0],[0,0],[0,0]]        
+        },
+        {
+            "type":"middle",
+            "isUniqueTeam":false,
+            "isFreeCategory": false,
+            "markerSvgPosition":[[0,0],[0,0],[0,0],[0,0]]        
+        },
+        {
+            "type":"middle",
+            "isUniqueTeam":false,
+            "isFreeCategory": false,
+            "markerSvgPosition":[[0,0],[0,0],[0,0],[0,0]]        
+        },
+        {
+            "type":"middle",
+            "isUniqueTeam":false,
+            "isFreeCategory": false,
+            "markerSvgPosition":[[0,0],[0,0],[0,0],[0,0]]        
+        },
+        {
+            "type":"middle",
+            "isUniqueTeam":false,
+            "isFreeCategory": false,
+            "markerSvgPosition":[[0,0],[0,0],[0,0],[0,0]]        
+        },
+        {
+            "type":"middle",
+            "isUniqueTeam":false,
+            "isFreeCategory": false,
+            "markerSvgPosition":[[0,0],[0,0],[0,0],[0,0]]        
+        },
+        {
+            "type":"middle",
+            "isUniqueTeam":false,
+            "isFreeCategory": false,
+            "markerSvgPosition":[[0,0],[0,0],[0,0],[0,0]]        
+        },
+        {
+            "type":"middle",
+            "isUniqueTeam":false,
+            "isFreeCategory": false,
+            "markerSvgPosition":[[0,0],[0,0],[0,0],[0,0]]        
+        },
+        {
+            "type":"middle",
+            "isUniqueTeam":false,
+            "isFreeCategory": false,
+            "markerSvgPosition":[[0,0],[0,0],[0,0],[0,0]]        
+        },
+        {
+            "type":"middle",
+            "isUniqueTeam":false,
+            "isFreeCategory": false,
+            "markerSvgPosition":[[0,0],[0,0],[0,0],[0,0]]        
+        },
+        {
+            "type":"middle",
+            "isUniqueTeam":false,
+            "isFreeCategory": false,
+            "markerSvgPosition":[[0,0],[0,0],[0,0],[0,0]]        
+        },
+        {
+            "type":"middle",
+            "isUniqueTeam":false,
+            "isFreeCategory": false,
+            "markerSvgPosition":[[0,0],[0,0],[0,0],[0,0]]        
+        },
+        {
+            "type":"middle",
+            "isUniqueTeam":false,
+            "isFreeCategory": false,
+            "markerSvgPosition":[[0,0],[0,0],[0,0],[0,0]]        
+        },
+        {
+            "type":"middle",
+            "isUniqueTeam":false,
+            "isFreeCategory": false,
+            "markerSvgPosition":[[0,0],[0,0],[0,0],[0,0]]        
+        },
+        {
+            "type":"middle",
+            "isUniqueTeam":false,
+            "isFreeCategory": false,
+            "markerSvgPosition":[[0,0],[0,0],[0,0],[0,0]]        
+        },
+        {
+            "type":"middle",
+            "isUniqueTeam":false,
+            "isFreeCategory": false,
+            "markerSvgPosition":[[0,0],[0,0],[0,0],[0,0]]        
+        },
+        {
+            "type":"middle",
+            "isUniqueTeam":false,
+            "isFreeCategory": false,
+            "markerSvgPosition":[[0,0],[0,0],[0,0],[0,0]]        
+        },
+        {
+            "type":"middle",
+            "isUniqueTeam":false,
+            "isFreeCategory": false,
+            "markerSvgPosition":[[0,0],[0,0],[0,0],[0,0]]        
+        },
+        {
+            "type":"middle",
+            "isUniqueTeam":false,
+            "isFreeCategory": false,
+            "markerSvgPosition":[[0,0],[0,0],[0,0],[0,0]]        
+        },
+        {
+            "type":"middle",
+            "isUniqueTeam":false,
+            "isFreeCategory": false,
+            "markerSvgPosition":[[0,0],[0,0],[0,0],[0,0]]        
+        },
+        {
+            "type":"end",
+            "isUniqueTeam":false,
+            "isFreeCategory": false,
+            "markerSvgPosition":[[0,0],[0,0],[0,0],[0,0]]        
+        }
+    ]
+}
